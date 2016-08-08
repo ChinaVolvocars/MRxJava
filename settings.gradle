@@ -1,1 +1,1 @@
-include ':app', ':retrofit2demo', ':mannotations'
+include ':app', ':retrofit2demo', ':mannotations', ':rxjava'
